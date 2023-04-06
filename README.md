@@ -94,17 +94,12 @@ The Private School Website was built using the following technologies:
 ## Built With
 
 
--![alt text](https://img.shields.io/badge/JavaScript-967F21?style=for-the-badge&logo=html)
--![alt text](https://img.shields.io/badge/JavaScript-967F21?style=for-the-badge&logo=CSS)
--![alt text](https://img.shields.io/badge/JavaScript-967F21?style=for-the-badge&logo=Bootstrap)
--![alt text](https://img.shields.io/badge/JavaScript-967F21?style=for-the-badge&logo=JavaScript)
+- ![alt text](https://img.shields.io/badge/JavaScript-967F21?style=for-the-badge&logo=WordPress)
+- ![alt text](https://img.shields.io/badge/JavaScript-967F21?style=for-the-badge&logo=CSS)
+- ![alt text](https://img.shields.io/badge/JavaScript-967F21?style=for-the-badge&logo=Bootstrap)
+- ![alt text](https://img.shields.io/badge/JavaScript-967F21?style=for-the-badge&logo=JavaScript)
 
 
-<ul class="rounded-list">
-  <li>Item 1</li>
-  <li>Item 2</li>
-  <li>Item 3</li>
-</ul>
 
 
 
