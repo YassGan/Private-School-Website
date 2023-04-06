@@ -1,3 +1,8 @@
+<head>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="sha512-dScyF7Y+k0+yJUEjUP/GUGdIpZP7t0JzQh1V7K1Dv0/W0o4pQLhB4/HVQ2tXKz7m8nTXEJ+j7cYKFpKu4omVw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+
+
 # Private-School-Website
 
 ## Table of Contents
@@ -81,11 +86,15 @@ The Private School Website was built using the following technologies:
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) <i class="fab fa-js fa-lg"></i>: used for adding interactivity and dynamic behavior to the website.
 
 
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
 
 
 
+
+
+## Built With
+
+* <i class="fab fa-html5"></i> HTML5
+* <i class="fab fa-css3"></i> CSS3
+* <i class="fab fa-js"></i> JavaScript
+* <i class="fab fa-php"></i> PHP
+* <i class="fab fa-wordpress"></i> WordPress
