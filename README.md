@@ -78,8 +78,8 @@ The Private School Website includes the following features:
 
 The Private School Website was built using the following technologies:
 
-- ![alt text](https://img.shields.io/badge/JavaScript-967F21?style=for-the-badge&logo=WordPress)(https://wordpress.org/) : used for building the frontend of the website and creating pages for displaying information about the school.
-- ![alt text](https://img.shields.io/badge/PHp-967F21?style=for-the-badge&logo=PHP)(https://www.php.net/) <i class="fab fa-php fa-lg"></i>: used for building the backend of the website and managing information about pupils, teachers, classes, grades, payments, and absences.
+- ![alt text](https://img.shields.io/badge/JavaScript-967F21?style=for-the-badge&logo=WordPress): used for building the frontend of the website and creating pages for displaying information about the school.
+- ![alt text](https://img.shields.io/badge/PHp-967F21?style=for-the-badge&logo=PHP): used for building the backend of the website and managing information about pupils, teachers, classes, grades, payments, and absences.
 - [MySQL](https://www.mysql.com/) <i class="fas fa-database fa-lg"></i>: used for storing and managing the database of the website.
 - [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) <i class="fab fa-html5 fa-lg"></i>: used for creating the structure and content of the website pages.
 - [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) <i class="fab fa-css3-alt fa-lg"></i>: used for styling the website pages and making them visually appealing.
