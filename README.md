@@ -25,7 +25,9 @@ Thank you for your interest in this project!
 
 The Private School Website includes the following features:
 
-## WordPress-based pages: The Home, About Us, Contact Us, and School Life pages are built using WordPress and showcase general information about the school and its programs.
+#### WordPress-based pages:
+
+The Home, About Us, Contact Us, and School Life pages are built using WordPress and showcase general information about the school and its programs.
 
 -Admin session: The website includes an admin session, intended for the school director, which allows him to manage information about pupils, teachers, classes, grades, payments, and absences.
 
