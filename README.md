@@ -93,11 +93,9 @@ The Private School Website was built using the following technologies:
 
 
 
+## Live Demo
 
-
-
-
-
+Hosting a website can be a costly endeavor, especially if you're looking for reliable and high-performance hosting services. To help showcase the Private School Website's functionality and features, I've included the video demonstration below.
 
 
 
