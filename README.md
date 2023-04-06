@@ -1,9 +1,15 @@
-<head>
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="sha512-dScyF7Y+k0+yJUEjUP/GUGdIpZP7t0JzQh1V7K1Dv0/W0o4pQLhB4/HVQ2tXKz7m8nTXEJ+j7cYKFpKu4omVw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
-</head>
 
 
 # Private-School-Website
+
+
+<div align="center">
+  <a href="https://github.com/othneildrew/Best-README-Template">
+    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  </a>
+</div>
+
+
 
 ## Table of Contents
 
