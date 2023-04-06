@@ -10,8 +10,8 @@
 
 - [Introduction](#introduction)
 - [Features](#Features)
-- [Built With](#Built With)
-- [Live Demo](#Live Demo)
+- [Built_With](#Built_With)
+- [Live_Demo](#Live_Demo)
 
 ## Introduction
 
