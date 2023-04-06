@@ -79,23 +79,14 @@ The Private School Website includes the following features:
 The Private School Website was built using the following technologies:
 
 - WordPress: used to create the website's pages : Home, About Us, Contact Us, and School Life.
-
 - PHP: used to build the second section of the website, which is dedicated to information management.
-
 - HTML: used to create the structure of the website's pages.
-
 - CSS: used for styling.
-
 - Bootstrap: used to quickly and easily create style the pages.
-
 - JavaScript: used to add interactivity and dynamic functionality to the website.
-
 - Ajax: used to make asynchronous HTTP requests to the server, which allows for dynamic content updates without requiring the user to reload the entire page.
-
 - MySQL: used to store and manage the website's data.
-
 - Apache: used to host and serve the website.
-
 - XAMPP: used to create a local development environment for the website.
 
 
