@@ -94,7 +94,7 @@ The Private School Website was built using the following technologies:
 ## Built With
 
 
-![alt text](https://img.shields.io/badge/JavaScript-967F21?style=plastic&logo=JavaScript)
+![alt text](https://img.shields.io/badge/JavaScript-967F21?style=social&logo=JavaScript)
 
 
 
