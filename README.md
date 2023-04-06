@@ -100,22 +100,6 @@ The Private School Website was built using the following technologies:
 -![alt text](https://img.shields.io/badge/JavaScript-967F21?style=for-the-badge&logo=JavaScript)
 
 
-<style>
-.rounded-list {
-  list-style-type: none;
-  padding: 0;
-  margin: 0;
-  border-radius: 10px;
-  overflow: hidden;
-}
-.rounded-list li {
-  background-color: #f2f2f2;
-  padding: 10px;
-  margin: 5px;
-  border-radius: 5px;
-}
-</style>
-
 <ul class="rounded-list">
   <li>Item 1</li>
   <li>Item 2</li>
