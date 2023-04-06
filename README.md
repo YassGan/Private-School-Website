@@ -78,26 +78,27 @@ The Private School Website includes the following features:
 
 The Private School Website was built using the following technologies:
 
-- ![alt text](https://img.shields.io/badge/JavaScript-967F21?style=for-the-badge&logo=WordPress): used for building the frontend of the website and creating pages for displaying information about the school.
-- ![alt text](https://img.shields.io/badge/PHp-967F21?style=for-the-badge&logo=PHP): used for building the backend of the website and managing information about pupils, teachers, classes, grades, payments, and absences.
-- [MySQL](https://www.mysql.com/) <i class="fas fa-database fa-lg"></i>: used for storing and managing the database of the website.
-- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) <i class="fab fa-html5 fa-lg"></i>: used for creating the structure and content of the website pages.
-- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) <i class="fab fa-css3-alt fa-lg"></i>: used for styling the website pages and making them visually appealing.
-- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) <i class="fab fa-js fa-lg"></i>: used for adding interactivity and dynamic behavior to the website.
+- WordPress: used to create the website's pages : Home, About Us, Contact Us, and School Life.
+
+- PHP: used to build the second section of the website, which is dedicated to information management.
+
+- HTML: used to create the structure of the website's pages.
+
+- CSS: used for styling.
+
+- Bootstrap: used to quickly and easily create style the pages.
+
+- JavaScript: used to add interactivity and dynamic functionality to the website.
+
+- Ajax: used to make asynchronous HTTP requests to the server, which allows for dynamic content updates without requiring the user to reload the entire page.
+
+- MySQL: used to store and manage the website's data.
+
+- Apache: used to host and serve the website.
+
+- XAMPP: used to create a local development environment for the website.
 
 
-
-
-
-
-
-## Built With
-
-
-- 
-- 
-- ![alt text](https://img.shields.io/badge/JavaScript-967F21?style=for-the-badge&logo=Bootstrap)
-- ![alt text](https://img.shields.io/badge/JavaScript-967F21?style=for-the-badge&logo=JavaScript)
 
 
 
