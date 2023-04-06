@@ -79,3 +79,13 @@ The Private School Website was built using the following technologies:
 - [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) <i class="fab fa-html5 fa-lg"></i>: used for creating the structure and content of the website pages.
 - [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) <i class="fab fa-css3-alt fa-lg"></i>: used for styling the website pages and making them visually appealing.
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) <i class="fab fa-js fa-lg"></i>: used for adding interactivity and dynamic behavior to the website.
+
+
+* [![Next][Next.js]][Next-url]
+* [![React][React.js]][React-url]
+* [![Svelte][Svelte.dev]][Svelte-url]
+* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
+* [![JQuery][JQuery.com]][JQuery-url]
+
+
+
