@@ -9,9 +9,9 @@
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+- [Features](#Features)
+- [Built With](#Built With)
+- [Live Demo](#Live Demo)
 
 ## Introduction
 
