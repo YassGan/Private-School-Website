@@ -64,15 +64,18 @@ The Private School Website includes the following features:
 
 
 #### - Client session:
-    The website includes a client session, intended for the school's clients, who can access a personalized space
-    where they can view their child's grades, absence history, and payment status.
+    The website includes a client session, intended for the school's clients, who can access a personalized 
+    space where they can view their child's grades, absence history, and payment status.
 
 
 
-## Contributing
+## Built With
 
-This is the contributing section.
+The Private School Website was built using the following technologies:
 
-## License
-
-This is the license section.
+- [WordPress](https://wordpress.org/) <i class="fab fa-wordpress fa-lg"></i>: used for building the frontend of the website and creating pages for displaying information about the school.
+- [PHP](https://www.php.net/) <i class="fab fa-php fa-lg"></i>: used for building the backend of the website and managing information about pupils, teachers, classes, grades, payments, and absences.
+- [MySQL](https://www.mysql.com/) <i class="fas fa-database fa-lg"></i>: used for storing and managing the database of the website.
+- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) <i class="fab fa-html5 fa-lg"></i>: used for creating the structure and content of the website pages.
+- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) <i class="fab fa-css3-alt fa-lg"></i>: used for styling the website pages and making them visually appealing.
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) <i class="fab fa-js fa-lg"></i>: used for adding interactivity and dynamic behavior to the website.
